@@ -12,4 +12,4 @@ The following pre-trained models are provided:
 - **EfficientNet-B4**
 - **EfficientNet-B5**
 
-Each model was trained using the [Semantic Drone Dataset](https://www.semanticdrone.com/) and evaluated for its accuracy, mean Intersection over Union (mIoU), and inference time. The detailed performance metrics can be found in the corresponding article.
+Each model was trained using the [Semantic Drone Dataset](http://dronedataset.icg.tugraz.at/) and evaluated for its accuracy, mean Intersection over Union (mIoU), and inference time. The detailed performance metrics can be found in the corresponding article.
